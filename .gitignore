@@ -1,0 +1,9 @@
+wp-config.php
+wp-content/uploads/
+*.log
+*.sql
+node_modules/
+vendor/
+.DS_Store
+.env
+
